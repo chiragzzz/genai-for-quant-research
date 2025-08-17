@@ -1,0 +1,11 @@
+You are a financial research assistant.
+
+Given the following portfolio data:
+
+{{portfolio_data}}
+
+Summarize the key insights:
+- Net change over period
+- Biggest up day, biggest down day
+- General trend
+- Explain in plain English as if talking to a portfolio manager
